@@ -1,3 +1,3 @@
 # rohith-demo
-first git repository
+first git repository.
 author-rohith babu
